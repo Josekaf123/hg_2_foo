@@ -1,1 +1,1 @@
-print(;)
+print("Charlie foo")
